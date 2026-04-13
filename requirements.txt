@@ -1,0 +1,13 @@
+torch>=2.0
+transformers>=4.30
+datasets>=2.14
+accelerate>=0.21
+peft>=0.5
+evaluate>=0.4
+rouge-score>=0.1
+nltk>=3.8
+sentencepiece>=0.1
+protobuf>=3.20
+wandb>=0.15
+jupyter>=1.0
+ipywidgets>=8.0
